@@ -1,0 +1,2 @@
+rootProject.name='ControlGest_1'
+include ':app'
